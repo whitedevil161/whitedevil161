@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Anil Kumar Avvaru
+- 👀 I’m interested in Server-Side programming and provide solutions for real time problems
+- 🌱 I’m currently learning  Javascript and Angular
+- 💞️ I’m looking to collaborate on open source projects, to contribute and also to improve my skills :)
